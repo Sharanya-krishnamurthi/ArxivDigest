@@ -99,9 +99,5 @@ requests>=2.28.1
 
 ---
 
-## 📜 License
 
-MIT License © \SHaranya Krishnamurthi
-
----
 
